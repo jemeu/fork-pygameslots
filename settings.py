@@ -16,7 +16,7 @@ SYM_PATH = 'graphics/0/symbols'
 TEXT_COLOR = 'White'
 # You need to provide your own font in the below directory
 # I downloaded Kidspace font from https://www.dafont.com/kidspace.font
-UI_FONT = 'graphics/font/kidspace.ttf'
+UI_FONT = 'graphics/font/Kidspace-DEMO.ttf'
 UI_FONT_SIZE = 30
 WIN_FONT_SIZE = 110
 
